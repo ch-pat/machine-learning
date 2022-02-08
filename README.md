@@ -1,1 +1,1 @@
-
+This repository merges a few school-related repositories regarding Machine Learning (notes, projects, etc.) and also will contain some small jupyter notebooks used for practice.
